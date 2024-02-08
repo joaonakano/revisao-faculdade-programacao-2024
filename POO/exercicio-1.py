@@ -3,7 +3,6 @@ class Computador:
         self._memoria = memoria
         self._cpu = cpu
         self._so = so
-        pass
 
     def Ligar(self):
         print(f'\nLigando o computador!')
